@@ -1,1 +1,2 @@
-# labtest
+# Assignment Submission
+by SungGone Kim
